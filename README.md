@@ -1,74 +1,5 @@
-##  AirBnB clone - RESTful API
-
-## The Console
+# AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
-
-![AirBnB RESTFUL](https://c8.alamy.com/comp/2C8XHF5/airbnb-company-logo-2C8XHF5.jpg)
-
-![RESTFUL API](https://content.altexsoft.com/media/2021/03/word-image.png)
-
-## Airbnb clone with a RESTful API involves designing and implementing a set of endpoints that mimic the functionality of Airbnb's services. Below are some of the key features and endpoints you might consider when building an Airbnb-like RESTful API:
-
-## User Management:
-
-## User Registration: Create user accounts with information such as name, email, and password.
-## User Authentication: Implement user authentication using tokens or JWT (JSON Web Tokens).
-Property Listings:
-
-## List Properties: Allow property owners to list their properties with details like title, description, location, price, and images.
-View Property Details: Retrieve property details, including images and availability.
-Search and Filters:
-
-## Search for Properties: Implement search functionality with filters like location, date range, price range, and property type.
-## Filter and Sorting: Allow users to filter search results based on various criteria and sort the results.
-## Booking and Reservations:
-
-## Make Reservations: Users should be able to book properties for specific dates.
-View Reservations: Property owners can see their reservations, and renters can see their upcoming and past bookings.
-Reviews and Ratings:
-
-## Leave Reviews: Allow users to leave reviews and ratings for properties they've stayed in.
-View Reviews: Display property reviews and ratings to help users make informed decisions.
-User Profiles:
-
-## User Profiles: Users can create and update their profiles with personal information and a profile picture.
-Host Profiles: Property owners should have the ability to create host profiles.
-Payment Integration:
-
-## Payment Processing: Implement payment processing for bookings.
-Payment History: Users can view their payment history and receipts.
-Notifications:
-
-Send Notifications: Send notifications to users for booking confirmations, inquiries, and messages.
-Receive Notifications: Users can view their notifications.
-Messaging:
-
-## Inbox: Implement a messaging system for users to communicate with hosts and other guests.
-Security and Privacy:
-
-## User Permissions: Ensure that users have appropriate permissions to edit or delete their listings, bookings, or reviews.
-Data Privacy: Comply with data privacy regulations and protect user data.
-Error Handling:
-
-Implement proper error handling and provide informative error messages in responses.
-Rate Limiting and Throttling:
-
-Implement rate limiting and throttling to prevent abuse of the API.
-Authentication and Authorization:
-
-Secure the API with proper authentication and authorization mechanisms.
-Documentation:
-
-Create comprehensive API documentation for developers and users.
-## Testing:
-
-Thoroughly test the API to ensure it functions correctly and is secure.
-Scalability and Performance:
-
-Design the API to be scalable and performant, especially if you expect high traffic.
-## Deployment:
-
-Deploy the API to a server or cloud platform, and ensure it's accessible over the internet.
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -223,10 +154,11 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Esther Ejimofor - [Github](https://github.com/Empirestar247) / [Twitter](https://x.com/leestymau?t=gQo6vzAjWmS_AJeQdEF6Rg&s=09)
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-
-Emmanuel Ndukwe Nmaju - [Github](https://github.com/imendy) / [Twitter](https://twitter.com/ENDY_EPIQ) 
-
+Second part of Airbnb: Joann Vuong
 ## License
-This project is in the public domain and has no copyright protection.
+Public Domain. No copy write protection. 
